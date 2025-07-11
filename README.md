@@ -13,3 +13,6 @@ There's also a pedestrian crosswalk feature that interrupts the cycle when you p
 - AVR Assembly
 - Arduino Uno
 - LEDs and a push button
+### 🎥 Demo Video
+
+[▶️ Watch the demo](.traffic_lights_video_demo-_1_/demo.mp4)
