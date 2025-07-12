@@ -15,4 +15,4 @@ There's also a pedestrian crosswalk feature that interrupts the cycle when you p
 - LEDs and a push button
 ### 🎥 Demo Video
 
-[▶️ Watch the demo](.traffic_lights_video_demo-_1_/demo.mp4)
+[▶️ Watch the demo](./traffic_lights_video_demo-_1_.mp4)
